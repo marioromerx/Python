@@ -19,3 +19,15 @@ costehora = float(input("Introduce el coste por hora: "))
 total = costehora*horastrabajadas
 print("El total de la paga que te corresponde es de " + str(total) + " €")
 
+#ejercicio6
+n=int(input("Introduce un entero positivo: "))
+suma = n * (n + 1) // 2
+print("La suma de 1 hasta " + str(n) + " es " + str(suma) )
+
+
+
+
+
+
+
+
