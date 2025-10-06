@@ -1,15 +1,4 @@
-#ejercicio1
 
-
-#ejercicio2
-
-
-#ejercicio3
-
-
-#ejercicio4 
-operacion = ((3+2) / (2*5)) ** 2
-print(operacion)
 
 #ejercicio5
 horastrabajadas = float(input("Introduce el número de horas trabajadas: "))
