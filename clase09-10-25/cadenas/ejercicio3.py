@@ -1,3 +1,3 @@
 nombre=input("Introduce un nombre de usuario: ")
-
-print(nombre.lower()+" tiene "+str(len(nombre)) + " letras")
+n=len(nombre)
+print(nombre.lower()+" tiene "+str(n) + " letras")
